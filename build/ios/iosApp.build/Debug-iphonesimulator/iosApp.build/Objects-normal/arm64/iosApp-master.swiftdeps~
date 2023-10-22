@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0657fa7f3f864b9e4adf98d9c97b29023c1aec96ff1d75aeb27c9a660d3aae14"
+build_start_time: [1692270825, 634164000]
+build_end_time: [1692270825, 704165000]
+inputs:
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UserScreen.swift": !private [1692171785, 387749653]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/iOSApp.swift": !private [1692171775, 775693199]

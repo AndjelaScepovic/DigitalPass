@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "61294e5e5e4e537e3407a5c4bbb55b7bad05204b59f3a1cd375d2ef70fb99923"
+build_start_time: [1694526887, 520302000]
+build_end_time: [1694526887, 556494000]
+inputs:
+  ? "/Users/andelascepovic/Library/Developer/Xcode/DerivedData/iosApp-gkfanuxlpqtysxciwsphsyzwwbgl/SourcePackages/checkouts/JWTDecode.swift/JWTDecode/JWT.swift"
+  : !private [1694521495, 818106521]
+  ? "/Users/andelascepovic/Library/Developer/Xcode/DerivedData/iosApp-gkfanuxlpqtysxciwsphsyzwwbgl/SourcePackages/checkouts/JWTDecode.swift/JWTDecode/JWTDecode.swift"
+  : !private [1694521495, 818194560]
+  ? "/Users/andelascepovic/Library/Developer/Xcode/DerivedData/iosApp-gkfanuxlpqtysxciwsphsyzwwbgl/SourcePackages/checkouts/JWTDecode.swift/JWTDecode/JWTDecodeError.swift"
+  : !private [1694521495, 818255433]

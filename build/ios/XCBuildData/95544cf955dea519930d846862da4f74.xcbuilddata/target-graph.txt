@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+JWTDecode in JWTDecode, no dependencies
+JWTDecode in JWTDecode, depends on:
+JWTDecode in JWTDecode (explicit)
+iosApp in iosApp, depends on:
+JWTDecode in JWTDecode (explicit)

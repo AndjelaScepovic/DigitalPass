@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7f45c261c4c75e9ea8602013f022fcfd16ba0c7d50446f76aa11410a64d2e7c0"
+build_start_time: [1694700741, 606665000]
+build_end_time: [1694700743, 115641000]
+inputs:
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/FlashPass.swift": [1694615263, 792768777]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/FlashPassInvalid.swift": [1694615263, 768145602]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/Pass.swift": [1694608757, 573030218]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/PassList.swift": [1694609282, 809456004]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/UpdateCredentials.swift": [1694615430, 904020403]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/UserScreen.swift": [1694602600, 793433851]
+  "/Users/andelascepovic/Documents/Vega/DigitalPass/iosApp/iosApp/UILayer/iOSApp.swift": [1693395305, 998458841]
